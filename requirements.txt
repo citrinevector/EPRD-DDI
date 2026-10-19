@@ -1,0 +1,11 @@
+# Required runtime dependencies.
+torch
+torchvision
+numpy
+pandas
+Pillow
+scikit-learn
+tqdm
+
+# Only needed for dataprocess/smiles2img.py and dataprocess/motif_utils.py.
+rdkit
